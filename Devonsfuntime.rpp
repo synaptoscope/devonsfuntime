@@ -1,0 +1,475 @@
+<REAPER_PROJECT 0.1 "6.75/win64" 1690942736
+  <NOTES 0 2
+  >
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 1
+  ENVATTACH 0
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 0
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 0
+  ZOOM 12.85911208940568 0 0
+  VZOOMEX 8 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "" ""
+  <RECORD_CFG
+    ZXZhdxgAAQ==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN ""
+  RENDER_FMT 0 2 0
+  RENDER_1X 0
+  RENDER_RANGE 2 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdxgAAQ==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 0 0
+  SELECTION2 0 0
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 -1 0 0 0 0 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {629E6C0C-9483-464E-8D05-E51636CF2589}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {F4A90BE6-7A4F-4E48-8D48-686D5FCAEC9F}
+    ACT 0 -1
+    VIS 0 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  <PROJBAY
+  >
+  <TRACK {74C7A316-4B8F-4E05-A3E5-B650B79B809B}
+    NAME "Devonsfuntimesong-final-countdown (1) - 8.9 - Acoustic Piano"
+    PEAKCOL 20988032
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 0
+    REC 0 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 -1 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {74C7A316-4B8F-4E05-A3E5-B650B79B809B}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 4
+      SNAPOFFS 0
+      LENGTH 252.57514739229026
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 2.699954 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {6E8E9955-8277-46DE-A259-57CA3B771B22}
+      IID 1
+      NAME "Devonsfuntimesong-final-countdown (1) - 8.9 - Acoustic Piano.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {834360EA-9FCF-487A-A053-A386984FAE3F}
+      <SOURCE MP3
+        FILE "Devonsfuntimesong-final-countdown (1) - 8.9 - Acoustic Piano.mp3" 1
+      >
+    >
+  >
+  <TRACK {4BF160CB-A7ED-4C7F-A772-84C5EE70E286}
+    NAME "Devonsfuntimesong-final-countdown (1) - 7.9 - Matt Leads"
+    PEAKCOL 25198592
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 1
+    REC 0 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 -1 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {4BF160CB-A7ED-4C7F-A772-84C5EE70E286}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 4
+      SNAPOFFS 0
+      LENGTH 252.57514739229026
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 2.699954 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {2C8B4177-345B-4490-84D8-53D5BF6B443A}
+      IID 2
+      NAME "Devonsfuntimesong-final-countdown (1) - 7.9 - Matt Leads.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4B1FA093-5CFD-418A-A162-7A5414680100}
+      <SOURCE MP3
+        FILE "Devonsfuntimesong-final-countdown (1) - 7.9 - Matt Leads.mp3" 1
+      >
+    >
+  >
+  <TRACK {40E631B3-F09B-476F-8637-BD7A5B0A8D81}
+    NAME "Devonsfuntimesong-final-countdown (1) - 6.9 - Devon Leads"
+    PEAKCOL 25198592
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 0
+    REC 0 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 -1 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {40E631B3-F09B-476F-8637-BD7A5B0A8D81}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 4
+      SNAPOFFS 0
+      LENGTH 252.57512471655332
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 2.699954 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {E22E4451-87A1-4EA0-8CBC-747EA1819D20}
+      IID 3
+      NAME "Devonsfuntimesong-final-countdown (1) - 6.9 - Devon Leads.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {997F1765-DE4B-4E07-B893-207D2DA40BBF}
+      <SOURCE MP3
+        FILE "Devonsfuntimesong-final-countdown (1) - 6.9 - Devon Leads.mp3" 1
+      >
+    >
+  >
+  <TRACK {3E436F32-61E4-458E-B117-189FCC567F56}
+    NAME "Devonsfuntimesong-final-countdown (1) - 5.9 - Drumkit"
+    PEAKCOL 21004543
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 0
+    REC 0 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 -1 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {3E436F32-61E4-458E-B117-189FCC567F56}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 4
+      SNAPOFFS 0
+      LENGTH 252.57514739229026
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 2.699954 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {FA0AA89E-79C1-4298-BFE7-157A29BEBAFB}
+      IID 4
+      NAME "Devonsfuntimesong-final-countdown (1) - 5.9 - Drumkit.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2019B0F4-989B-4D2C-B43B-0465F5971617}
+      <SOURCE MP3
+        FILE "Devonsfuntimesong-final-countdown (1) - 5.9 - Drumkit.mp3" 1
+      >
+    >
+  >
+  <TRACK {38B73DC1-324B-4904-9C31-26EC098EB037}
+    NAME "Devonsfuntimesong-final-countdown (1) - 4.9 - 5 String Bass"
+    PEAKCOL 25182208
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 0
+    REC 0 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 -1 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {38B73DC1-324B-4904-9C31-26EC098EB037}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 4
+      SNAPOFFS 0
+      LENGTH 252.57514739229026
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 2.699954 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {76077924-E883-4173-8C34-518D4D4CC206}
+      IID 5
+      NAME "Devonsfuntimesong-final-countdown (1) - 4.9 - 5 String Bass.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DE64CDB0-72D1-4454-9412-F3EE5D94815D}
+      <SOURCE MP3
+        FILE "Devonsfuntimesong-final-countdown (1) - 4.9 - 5 String Bass.mp3" 1
+      >
+    >
+  >
+  <TRACK {3A9FC98F-09E6-431D-8766-9F3D6D6A04E0}
+    NAME "Devonsfuntimesong-final-countdown (1) - 3.9 - Devon rhythm harmony"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 0
+    REC 0 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 -1 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {3A9FC98F-09E6-431D-8766-9F3D6D6A04E0}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 4
+      SNAPOFFS 0
+      LENGTH 252.57512471655332
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 2.699954 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {78A8405B-453B-43FA-8F43-17647D1BC654}
+      IID 6
+      NAME "Devonsfuntimesong-final-countdown (1) - 3.9 - Devon rhythm harmony.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D2768339-29DA-411A-BB70-913D13AAEFA5}
+      <SOURCE MP3
+        FILE "Devonsfuntimesong-final-countdown (1) - 3.9 - Devon rhythm harmony.mp3" 1
+      >
+    >
+  >
+  <TRACK {1834A5C4-6104-4537-851F-634DB3F95EBF}
+    NAME "Devonsfuntimesong-final-countdown (1) - 2.9 - Devon rhythm"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 0
+    REC 0 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 -1 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {1834A5C4-6104-4537-851F-634DB3F95EBF}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 4
+      SNAPOFFS 0
+      LENGTH 252.57514739229026
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 2.699954 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {852F50D7-DC42-422C-980C-65B8CA9D3BF5}
+      IID 7
+      NAME "Devonsfuntimesong-final-countdown (1) - 2.9 - Devon rhythm.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {58284CBC-E7BA-48D9-B0AE-9B993BF53C55}
+      <SOURCE MP3
+        FILE "Devonsfuntimesong-final-countdown (1) - 2.9 - Devon rhythm.mp3" 1
+      >
+    >
+  >
+  <TRACK {1B578DB5-5E97-4A08-8E89-A0DEB090ECDB}
+    NAME "Devonsfuntimesong-final-countdown (1) - 1.9 - Matt rhythm"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 0
+    REC 0 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 -1 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {1B578DB5-5E97-4A08-8E89-A0DEB090ECDB}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 4
+      SNAPOFFS 0
+      LENGTH 252.57512471655332
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 2.699954 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {13C1B347-8024-4904-9FFA-2724E0A12731}
+      IID 8
+      NAME "Devonsfuntimesong-final-countdown (1) - 1.9 - Matt rhythm.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A3F65C6E-24F9-4DCB-AA93-58C4073A9BC0}
+      <SOURCE MP3
+        FILE "Devonsfuntimesong-final-countdown (1) - 1.9 - Matt rhythm.mp3" 1
+      >
+    >
+  >
+  <EXTENSIONS
+    <SWSAUTOCOLOR
+      {00000000-0000-0000-0000-000000000000} 0 "" "" ""
+      {74C7A316-4B8F-4E05-A3E5-B650B79B809B} 20988032 "" "" ""
+      {4BF160CB-A7ED-4C7F-A772-84C5EE70E286} 25198592 "" "" ""
+      {40E631B3-F09B-476F-8637-BD7A5B0A8D81} 25198592 "" "" ""
+      {3E436F32-61E4-458E-B117-189FCC567F56} 21004543 "" "" ""
+      {38B73DC1-324B-4904-9C31-26EC098EB037} 25182208 "" "" ""
+      {3A9FC98F-09E6-431D-8766-9F3D6D6A04E0} 0 "" "" ""
+      {1834A5C4-6104-4537-851F-634DB3F95EBF} 0 "" "" ""
+      {1B578DB5-5E97-4A08-8E89-A0DEB090ECDB} 0 "" "" ""
+    >
+  >
+>
